@@ -18,6 +18,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "greeter": "^0.0.0"
+    "greeter": "^0.0.0",
+    "common": "^0.0.0"
   }
 }
