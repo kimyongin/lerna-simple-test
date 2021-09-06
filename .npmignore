@@ -1,0 +1,13 @@
+.eslintignore
+.eslintrc.yml
+.gitignore
+.gitlab-ci.yml
+.npmrc
+*.iml
+
+.history/
+.idea/
+.vscode/
+config/
+*/test/
+coverage/
