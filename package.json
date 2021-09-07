@@ -5,10 +5,7 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "start": "npx lerna run start",
-    "start-sender": "npx lerna run --scope sender start",
-    "start-console": "npx lerna run --scope console start",
-    "clean": "npx lerna clean",
-    "bootstrap" : "npx lerna bootstrap --hoist"
+    "clean": "lerna clean --yes",
+    "bootstrap": "lerna bootstrap --hoist"
   }
 }
