@@ -2,12 +2,10 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "lerna": "^4.0.0",
-    "jest": "^27.1.0"
+    "lerna": "^4.0.0"
   },
   "scripts": {
     "clean": "lerna clean --yes",
-    "test" : "jest",
     "bootstrap": "lerna bootstrap --hoist"
   }
 }
