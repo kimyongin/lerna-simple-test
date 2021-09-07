@@ -6,5 +6,4 @@
 
 # 실행
 - npm install -g lerna
-- npm run bootstrap // npx lerna bootstrap --hoist 수행함
-- npm run start-sender
+- npm run bootstrap // lerna bootstrap --hoist 수행함
