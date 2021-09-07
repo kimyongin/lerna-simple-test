@@ -1,7 +1,9 @@
 'use strict';
 
-const module = require('../index');
+test('test sender', () => {
+    expect(1).toBe(1);
+});
 
-describe('test', () => {
-    it('needs tests');
+test('test sender1', () => {
+    expect(1).toBe(1);
 });
