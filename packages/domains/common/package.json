@@ -1,5 +1,5 @@
 {
-  "name": "common",
+  "name": "@lerna-test/common",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "kimyongin <kimyongin@nexon.co.kr>",

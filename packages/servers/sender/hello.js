@@ -1,5 +1,5 @@
-const greeter = require("greeter")
-const {config} = require("common");
+const greeter = require("@lerna-test/greeter")
+const {config} = require("@lerna-test/common");
 
 function hello() {
     return greeter(config.get("name"))

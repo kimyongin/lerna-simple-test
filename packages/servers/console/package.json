@@ -1,5 +1,5 @@
 {
-  "name": "console",
+  "name": "@lerna-test/console",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "kimyongin <kimyongin@nexon.co.kr>",
@@ -11,8 +11,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "greeter": "^0.0.0",
-    "common": "^0.0.0",
+    "@lerna-test/greeter": "^0.0.0",
+    "@lerna-test/common": "^0.0.0",
     "express": "^4.17.1"
   },
   "devDependencies": {

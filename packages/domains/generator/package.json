@@ -1,5 +1,5 @@
 {
-  "name": "generator",
+  "name": "@lerna-test/generator",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "kimyongin <kimyongin@nexon.co.kr>",
